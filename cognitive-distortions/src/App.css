@@ -1,0 +1,10 @@
+.emotion {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.strength {
+  display: flex;
+  flex-direction: row;
+}
