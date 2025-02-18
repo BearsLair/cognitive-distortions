@@ -8,8 +8,10 @@ function App() {
       <div>
         <h1 className="title">Cognitive Behavior Therapy Workshop</h1>
       </div>
-      <div className="form-section">
+      <div className="upsetting-event">
         <UpsettingEvent />
+      </div>
+      <div className="form-section">
         <Emotions />
       </div>
       <div className="footer"></div>
