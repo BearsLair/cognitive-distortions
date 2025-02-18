@@ -1,5 +1,5 @@
 import "./App.css";
-import DistortedThoughts from "./components/DistortedThoughts";
+import DistortionsInThoughts from "./components/DistortionsInThought";
 import UpsettingEvent from "./components/UpsettingEvent";
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
         <UpsettingEvent />
       </div>
       <div className="form-section">
-        <DistortedThoughts />
+        <DistortionsInThoughts />
       </div>
       <div className="footer"></div>
     </>
